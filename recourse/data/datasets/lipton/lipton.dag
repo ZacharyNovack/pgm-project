@@ -1,0 +1,4 @@
+gender -> hair_len
+gender -> work_exp
+hair_len -> pred
+work_exp -> pred
